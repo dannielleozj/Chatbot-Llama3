@@ -5,9 +5,14 @@ This project is an AI chatbot that can run locally on your machine using LangCha
 
 ## Installation
 1. Install Ollama here https://ollama.com/download
-2. Clone the repository
+2. Install Llama-3 8B from the Ollama library.
+    ```sh
+   ollama pull llama3
+    ```
+   
+4. Clone the repository
 
-3. Install the required dependencies:
+5. Install the required dependencies:
     ```sh
     pip install langchain langchain-ollama ollama
     ```
