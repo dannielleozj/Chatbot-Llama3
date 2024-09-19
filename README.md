@@ -12,7 +12,7 @@ This project is an AI chatbot that can run locally on your machine using LangCha
 
 2. Install the required dependencies:
     ```sh
-    pip install langchain langchain_ollama ollama
+    pip install langchain langchain-ollama ollama
     ```
 
 ## Usage
