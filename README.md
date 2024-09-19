@@ -12,7 +12,7 @@ This project is an AI chatbot that uses the LangChain library and the OllamaLLM 
 
 2. Install the required dependencies:
     ```sh
-    pip install langchain_ollama langchain_core
+    pip install langchain langchain_ollama ollama
     ```
 
 ## Usage
